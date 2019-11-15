@@ -82,7 +82,7 @@ public class HoaDonJFrame extends javax.swing.JFrame {
 
         txttime.setText(" ");
 
-        jButton1.setText("jButton1");
+        jButton1.setText("in hoa đơn");
         jButton1.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
                 jButton1ActionPerformed(evt);
